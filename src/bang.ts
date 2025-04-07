@@ -42057,15 +42057,6 @@ export const bangs = [
     u: "http://www.google.co.jp/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
   },
   {
-    c: "Entertainment",
-    d: "www.gamekult.com",
-    r: 12,
-    s: "Gamekult",
-    sc: "Games (general)",
-    t: "gk",
-    u: "https://www.gamekult.com/rechercher-jeu.html?q={{{s}}}",
-  },
-  {
     c: "Online Services",
     d: "www.google.co.kr",
     r: 140,
