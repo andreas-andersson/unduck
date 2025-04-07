@@ -8,7 +8,7 @@ export const bangs = [
     s: "Gävle kommun Sök",
     sc: "Sök",
     t: "gk",
-    u: "https://www.gavle.se/?s={{s}}",
+    u: "https://www.gavle.se/?s={{{s}}}",
   },
   {
     c: "AI",
