@@ -2,6 +2,15 @@
 
 export const bangs = [
   {
+    c: "Gävle kommun",
+    d: "www.gavle.se",
+    r: 0,
+    s: "Gävle kommun Sök",
+    sc: "Sök",
+    t: "gk",
+    u: "https://www.gavle.se/?s={{s}}",
+  },
+  {
     c: "AI",
     d: "www.t3.chat",
     r: 0,
@@ -1335,12 +1344,12 @@ export const bangs = [
   },
   {
     c: "Shopping",
-    d: "www.amazon.com",
+    d: "www.amazon.se",
     r: 33856,
-    s: "Amazon.com",
+    s: "Amazon.se",
     sc: "Online",
     t: "a",
-    u: "https://www.amazon.com/s?k={{{s}}}",
+    u: "https://www.amazon.se/s?k={{{s}}}",
   },
   {
     c: "News",
